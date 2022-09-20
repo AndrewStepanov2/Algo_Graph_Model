@@ -1,8 +1,0 @@
-﻿  Project Azorian.cpp
-C:\Users\1UberSlayer\source\repos\Project Azorian\Project Azorian\Edge.h(11,1): error C2440: 'delete': cannot convert from 'std::shared_ptr<Vertex<std::string>>' to 'void*'
-C:\Users\1UberSlayer\source\repos\Project Azorian\Project Azorian\Edge.h(11,17): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
-C:\Users\1UberSlayer\source\repos\Project Azorian\Project Azorian\Edge.h(10): message : while compiling class template member function 'Edge<Vertex<std::string>,int>::~Edge(void)'
-C:\Users\1UberSlayer\source\repos\Project Azorian\Project Azorian\Project Azorian.cpp(22): message : see reference to function template instantiation 'Edge<Vertex<std::string>,int>::~Edge(void)' being compiled
-C:\Users\1UberSlayer\source\repos\Project Azorian\Project Azorian\Project Azorian.cpp(22): message : see reference to class template instantiation 'Edge<Vertex<std::string>,int>' being compiled
-C:\Users\1UberSlayer\source\repos\Project Azorian\Project Azorian\Edge.h(12,1): error C2440: 'delete': cannot convert from 'std::shared_ptr<Vertex<std::string>>' to 'void*'
-C:\Users\1UberSlayer\source\repos\Project Azorian\Project Azorian\Edge.h(12,17): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
